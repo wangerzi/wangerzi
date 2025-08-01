@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 📚 Check out my blog at [A tower of nine stories(write by 🇨🇳)](https://blog.wj2015.com).
 
-📫 You can reach me by: ✉️ [Email:admin@wj2015.com](mailto:admin@wj2015.com)
+📫 You can reach me by: ✉️ [Email:admin@wj2015.com](mailto:admin@wj2015.com).
 
 
 <h3>
