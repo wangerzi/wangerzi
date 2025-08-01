@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <h3>
   📈 My GitHub Stats
 </h3>
-<b>Note:</b> Top Languages section on my GitHub profile does not necessarily reflect my level of proficiency in each language.
+<!-- <b>Note:</b> Top Languages section on my GitHub profile does not necessarily reflect my level of proficiency in each language. -->
 <p>
   <img src="https://github-readme-stats.vercel.app/api/?username=wangerzi&theme=transparent&show_icons=true&count_private=true" alt="Jeffrey's GitHub Stats">
 </p>
