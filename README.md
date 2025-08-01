@@ -44,12 +44,10 @@ Here are some ideas to get you started:
 <p>
   <img src="https://github-readme-stats.vercel.app/api/?username=wangerzi&theme=transparent&show_icons=true&count_private=true" alt="Jeffrey's GitHub Stats">
 </p>
-<!--
-<p>
+<!-- <p>
   <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangerzi&layout=compact&theme=transparent&hide=ejs,blade,html,css&langs_count=5&size_weight=0.5&count_weight=0.5" alt="Jeffrey's Top Langs">
-</p>
--->
+</p> -->
 
 <h3>
   🔥 My favorite open source projects
